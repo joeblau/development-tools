@@ -1,36 +1,15 @@
-<h2 align="center"> macOS Dev Tools </h2>
-<table style="width:100%;border:0px">
-  <tr>
-    <td align="center" style="border:0px">
-      <img src="img/icon-ios.svg"/>
-      <br />
-      iOS
-    </td>
-    <td align="center" style="border:0px">
-      <img src="img/icon-macos.svg"/>
-      <br />
-      macOS
-    </td>
-    <td align="center" style="border:0px">
-      <img src="img/icon-watchos.svg"/>
-      <br />
-      watchOS
-    </td>
-    <td align="center" style="border:0px">
-      <img src="img/icon-tvos.svg"/>
-      <br />
-      tvOS
-    </td>
-  </tr>
-</table>
+<h2 align="center"> ⚒ Development Tools ⚒ </h2>
+<p align="center">
+  <img src="img/platforms.png"/>
+</p>
 <p align="center">
   This is a list of tools I use for iOS, macOS, watchOS, and tvOS development
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/iOS-10-558B2F.svg"/>
-  <img src="https://img.shields.io/badge/macOS%20Seierra-10.12-0277BD.svg"/>
-  <img src="https://img.shields.io/badge/watchOS-3-EF6C00.svg"/>
-  <img src="https://img.shields.io/badge/tvOS-9-6A1B9A.svg"/>
+  <img src="https://img.shields.io/badge/iOS-10-8BC34A.svg"/>
+  <img src="https://img.shields.io/badge/macOS%20Seierra-10.12-03A9F4.svg"/>
+  <img src="https://img.shields.io/badge/watchOS-3-FF9800.svg"/>
+  <img src="https://img.shields.io/badge/tvOS-9-E91E63.svg"/>
   <img src="https://img.shields.io/github/license/joeblau/ios-dev-tools.svg"/>
 </p>
 
