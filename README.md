@@ -27,6 +27,7 @@
 | iOS Console | http://lemonjar.com/iosconsole/ | The most awesome iOS console log viewer. Ever. |
 | iOS Signer App | http://dantheman827.github.io/ios-app-signer/ | This is an app for OS X that can (re)sign apps and bundle them into `.ipa` files that are ready to be installed on an iOS device. Supported input types are: `.ipa`, `.deb`, `.app`, `.xcarchive` |
 | Kaleidoscope | http://www.kaleidoscopeapp.com | Easily spot the differences in text and image files. Review changes in seconds with the world's most advanced Mac diff tool. |
+| libimobiledevice | http://www.libimobiledevice.org | libimobiledevice is a cross-platform software library that talks the protocols to support iPhone®, iPod Touch®, iPad® and Apple TV® devices.|
 | macOS Server | http://www.apple.com/osx/server/ | OS X Server makes it easy to collaborate, develop software, and configure Mac and iOS devices. |
 | PaintCode | http://www.paintcodeapp.com | Turn drawings into code |
 | Paw | https://luckymarmot.com/paw | The most advanced HTTP client for Mac |
