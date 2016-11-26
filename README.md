@@ -22,6 +22,7 @@
 | Carthage | https://github.com/Carthage/Carthage | Carthage is intended to be the simplest way to add frameworks to your Cocoa application. |
 | Charles Proxy | https://www.charlesproxy.com | Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet. |
 | CocoaPods | http://cocoapods.org | CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects. |
+| gfxCardStatus | https://gfx.io | gfxCardStatus is an unobtrusive menu bar app for OS X that allows MacBook Pro users to see which apps are affecting their battery life by using the more power-hungry graphics. |
 | Hardware I /O Tools for Xcode|https://developer.apple.com/downloads | This package includes additional hardware i/o tools formerly bundled in the Xcode installer. These tools include: Apple Bluetooth Guidelines Validation, Bluetooth Explorer, HomeKit Accessory Simulator, IO Registry Explorer, Network Link Conditioner.prefpane, PacketLogger and Printer Simulator. |
 | Hopper | https://www.hopperapp.com | Hopper is a reverse engineering tool for OS X and Linux, that lets you disassemble, and decompile your 32/64bits Intel Mac, Linux, Windows and iOS executables! |
 | iOS Console | http://lemonjar.com/iosconsole/ | The most awesome iOS console log viewer. Ever. |
