@@ -1,6 +1,5 @@
-<h2 align="center"> ⚒ Development Tools ⚒ </h2>
 <p align="center">
-  <img src="img/platforms.png"/>
+  <img src="assets/img/platforms.png"/>
 </p>
 <p align="center">
   This is a list of tools I use for iOS, macOS, watchOS, and tvOS development
