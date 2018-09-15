@@ -5,10 +5,10 @@
   This is a list of tools I use for iOS, macOS, watchOS, and tvOS development
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/iOS-10-8BC34A.svg"/>
-  <img src="https://img.shields.io/badge/macOS%20Seierra-10.12-03A9F4.svg"/>
-  <img src="https://img.shields.io/badge/watchOS-3-FF9800.svg"/>
-  <img src="https://img.shields.io/badge/tvOS-9-E91E63.svg"/>
+  <img src="https://img.shields.io/badge/iOS-12-8BC34A.svg"/>
+  <img src="https://img.shields.io/badge/macOS%20Mojave-10.14-03A9F4.svg"/>
+  <img src="https://img.shields.io/badge/watchOS-5-FF9800.svg"/>
+  <img src="https://img.shields.io/badge/tvOS-11-E91E63.svg"/>
   <img src="https://img.shields.io/github/license/joeblau/ios-dev-tools.svg"/>
 </p>
 
